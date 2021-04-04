@@ -10,3 +10,10 @@ DETR demo: [Colab Notebook](https://colab.research.google.com/github/facebookres
 
 
 Facebook DETR GitHub Repo: [Link](https://github.com/facebookresearch/detr)
+
+
+## TODO List
+* Run Transformer on different datasets to get AP.
+* Read the paper of ViT.
+* Check out the Code of ViT.
+* Try to replace the CNN with the ViT.
