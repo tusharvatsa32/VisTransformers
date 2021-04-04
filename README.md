@@ -16,6 +16,8 @@ End-to-End Object Detection Paper: [Paper](https://arxiv.org/pdf/2005.12872.pdf)
 
 Visual Transformer Paper: [Paper](https://arxiv.org/pdf/2010.11929.pdf)
 
+Faster RCNN Paper: [Paper](https://arxiv.org/pdf/1506.01497.pdf)
+
 
 
 ## TODO List
