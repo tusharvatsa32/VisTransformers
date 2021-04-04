@@ -4,9 +4,9 @@
 
 Inference: [Colab Notebook](https://colab.research.google.com/github/facebookresearch/detr/blob/colab/notebooks/detr_demo.ipynb#scrollTo=GJhCp8y0-b-H)
 
-Tutorial DETR: [DETR GitHub Repo](https://colab.research.google.com/github/facebookresearch/detr/blob/colab/notebooks/detr_attention.ipynb#scrollTo=_GQzINI-FBWp)
+Tutorial DETR: [Colab Notebook](https://colab.research.google.com/github/facebookresearch/detr/blob/colab/notebooks/detr_attention.ipynb#scrollTo=_GQzINI-FBWp)
 
 DETR demo: [Colab Notebook](https://colab.research.google.com/github/facebookresearch/detr/blob/colab/notebooks/detr_demo.ipynb)
 
 
-https://github.com/facebookresearch/detr
+[Facebook DETR GitHub Repo](https://github.com/facebookresearch/detr)
