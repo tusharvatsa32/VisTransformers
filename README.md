@@ -9,4 +9,4 @@ Tutorial DETR: [Colab Notebook](https://colab.research.google.com/github/faceboo
 DETR demo: [Colab Notebook](https://colab.research.google.com/github/facebookresearch/detr/blob/colab/notebooks/detr_demo.ipynb)
 
 
-[Facebook DETR GitHub Repo](https://github.com/facebookresearch/detr)
+Facebook DETR GitHub Repo: [Link](https://github.com/facebookresearch/detr)
