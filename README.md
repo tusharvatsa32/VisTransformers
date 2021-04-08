@@ -25,3 +25,7 @@ Faster RCNN Paper: [Paper](https://arxiv.org/pdf/1506.01497.pdf)
 * Read the paper of ViT.
 * Check out the Code of ViT.
 * Try to replace the CNN with the ViT.
+
+## Understanding the Flow
+Transformers Working description by Jay Alammar
+[1] https://jalammar.github.io/illustrated-transformer/
