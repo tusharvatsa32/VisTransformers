@@ -21,6 +21,9 @@ Faster RCNN Paper: [Paper](https://arxiv.org/pdf/1506.01497.pdf)
 
 
 ## TODO List
+* Get an understanding of how Transformer Works
+* What is BERT and how does it work?
+* Running toy examples on Transformers and BERT
 * Run Transformer on different datasets to get AP.
 * Read the paper of ViT.
 * Check out the Code of ViT.
