@@ -10,6 +10,8 @@ DETR demo: [Colab Notebook](https://colab.research.google.com/github/facebookres
 
 Facebook DETR GitHub Repo: [Link](https://github.com/facebookresearch/detr)
 
+Google Visual Transformer Repo: [Link](https://github.com/google-research/vision_transformer)
+
 ## Literature Review
 
 End-to-End Object Detection Paper: [Paper](https://arxiv.org/pdf/2005.12872.pdf)
