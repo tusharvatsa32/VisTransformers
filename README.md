@@ -28,7 +28,7 @@ Faster RCNN Paper: [Paper](https://arxiv.org/pdf/1506.01497.pdf)
 * Running toy examples on Transformers and BERT
 * Run Transformer on different datasets to get AP.
 * Read the paper of ViT.
-* Check out the Code of ViT.
+* Compare the performance of DETR's ResNet-101 backbone with ViT on some datasets.
 * Try to replace the CNN with the ViT.
 
 ## Understanding the Flow
