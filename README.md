@@ -34,7 +34,8 @@ Drive: [Link](https://drive.google.com/drive/folders/1IUtJXzzX561Wm-ban7mFlNX2PE
 * Compare the performance of DETR's ResNet-101 backbone with ViT on some datasets.
 * Try to replace the CNN with the ViT.
 
-
+## Understanding the Flow
 Transformers Working description by Jay Alammar
 [1] https://jalammar.github.io/illustrated-transformer/
+Demo DETR Explaination and Dummy Code
 [2] https://medium.com/swlh/object-detection-with-transformers-437217a3d62e
