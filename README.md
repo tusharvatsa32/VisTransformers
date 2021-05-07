@@ -1,42 +1,33 @@
-# Object Detection using Transformers
+# 11785 Project: Towards Improving Object Detection with End-to-End Transformers
 
-## [Meeting link](https://cmu.zoom.us/j/91389034887?pwd=Wmk5QmxQQjRrVWs1emxCYkZseFdJQT09)
+Convolutional neural networks have been proven to be extremely effective for end-to-end object detection tasks. Lately, the onset of transformers has opened new dimensions in improving the performance of the existing object detection networks. Although the application of transformers has been in natural language processing predominantly, recent research works have suggested that they are capable of achieving comparable, if not better, performance on computer vision problems while requiring substantially smaller number of parameters. In this project, we will develop pure transformer networks by replacing traditional CNN backbone architecture with a visual transformer classifier in DETR for object detection and measure their effectiveness on popular large-scale datasets.
 
-Inference: [Colab Notebook](https://colab.research.google.com/github/facebookresearch/detr/blob/colab/notebooks/detr_demo.ipynb#scrollTo=GJhCp8y0-b-H)
+# Requirements
+1. Python 3.6+
+2. Pytorch 1.8+
 
-Tutorial DETR: [Colab Notebook](https://colab.research.google.com/github/facebookresearch/detr/blob/colab/notebooks/detr_attention.ipynb#scrollTo=_GQzINI-FBWp)
+# Model
 
-DETR demo: [Colab Notebook](https://colab.research.google.com/github/facebookresearch/detr/blob/colab/notebooks/detr_demo.ipynb)
+![alt text](https://raw.githubusercontent.com/tusharvatsa32/VisTransformers/main/docs/Screen%20Shot%202021-05-06%20at%2011.16.40%20AM.png "model")
 
-Facebook DETR GitHub Repo: [Link](https://github.com/facebookresearch/detr)
-
-Google Visual Transformer Repo: [Link](https://github.com/google-research/vision_transformer)
-
-## Literature Review
-
-End-to-End Object Detection Paper: [Paper](https://arxiv.org/pdf/2005.12872.pdf)
-
-Visual Transformer Paper: [Paper](https://arxiv.org/pdf/2010.11929.pdf)
-
-Faster RCNN Paper: [Paper](https://arxiv.org/pdf/1506.01497.pdf)
-
-## COCO Dataset Drive Folder Link
-Drive: [Link](https://drive.google.com/drive/folders/1IUtJXzzX561Wm-ban7mFlNX2PE3HQqsB?usp=sharing)
+# Performance of ViT vs ResNet
 
 
+![alt text](https://raw.githubusercontent.com/tusharvatsa32/VisTransformers/main/docs/plot1.jpeg "model")
 
-## TODO List
-* Get an understanding of how Transformer Works
-* What is BERT and how does it work?
-* Running toy examples on Transformers and BERT
-* Run Transformer on different datasets to get AP.
-* Read the paper of ViT.
-* Compare the performance of DETR's ResNet-101 backbone with ViT on some datasets.
-* Try to replace the CNN with the ViT.
+![alt text](https://raw.githubusercontent.com/tusharvatsa32/VisTransformers/main/docs/plot2.jpeg "model")
 
-## Understanding the Flow
-Transformers Working description by Jay Alammar
-[1] https://jalammar.github.io/illustrated-transformer/
 
-Demo DETR Explaination and Dummy Code
-[2] https://medium.com/swlh/object-detection-with-transformers-437217a3d62e
+# Team Members
+1. Tushar Vatsa : tvatsa
+2. Rituraj Singh: riturajs
+3. Wallace Dalmet: wdalmet
+4. Vivek Aswal: vaswal
+
+### [FB DETR](https://github.com/facebookresearch/detr)
+
+
+
+
+
+
