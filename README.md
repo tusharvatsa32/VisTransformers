@@ -16,7 +16,7 @@ To perform training and inference
 runner
 	- notebooks
 		- DETR
-			- run DETR_modified_train.ipyn 
+			- run DETR_modified_train.ipynb
 ```
 
 
