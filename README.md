@@ -20,10 +20,6 @@ runner
 ```
 
 
-## Model
-
-![alt text](https://raw.githubusercontent.com/tusharvatsa32/VisTransformers/main/docs/Screen%20Shot%202021-05-06%20at%2011.16.40%20AM.png "model")
-
 ## Performance of ViT vs ResNet
 
 <img src="https://raw.githubusercontent.com/tusharvatsa32/VisTransformers/main/docs/plot1.jpeg" alt="drawing" width="400"/> <img src="https://raw.githubusercontent.com/tusharvatsa32/VisTransformers/main/docs/plot2.jpeg" alt="drawing" width="400"/>
