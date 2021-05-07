@@ -12,10 +12,9 @@ Convolutional neural networks have been proven to be extremely effective for end
 
 # Performance of ViT vs ResNet
 
+<img src="https://raw.githubusercontent.com/tusharvatsa32/VisTransformers/main/docs/plot1.jpeg" alt="drawing" width="400"/>
 
-![alt text](https://raw.githubusercontent.com/tusharvatsa32/VisTransformers/main/docs/plot1.jpeg "model" =400x)
-
-![alt text](https://raw.githubusercontent.com/tusharvatsa32/VisTransformers/main/docs/plot2.jpeg "model" =400x)
+<img src="https://raw.githubusercontent.com/tusharvatsa32/VisTransformers/main/docs/plot2.jpeg" alt="drawing" width="400"/>
 
 
 # Team Members
