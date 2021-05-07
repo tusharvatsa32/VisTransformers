@@ -6,6 +6,20 @@ Convolutional neural networks have been proven to be extremely effective for end
 1. Python 3.6+
 2. Pytorch 1.8+
 
+# Run
+
+To perform training and inference
+```
+!git clone https://github.com/tusharvatsa32/VisTransformers
+```
+```
+runner
+	- notebooks
+		- DETR
+			- run DETR_modified_train.ipyn 
+```
+
+
 # Model
 
 ![alt text](https://raw.githubusercontent.com/tusharvatsa32/VisTransformers/main/docs/Screen%20Shot%202021-05-06%20at%2011.16.40%20AM.png "model")
