@@ -22,7 +22,7 @@ runner
 
 ## Performance of ViT vs ResNet
 
-<img src="https://raw.githubusercontent.com/tusharvatsa32/VisTransformers/main/docs/plot1.jpeg" alt="drawing" width="400"/> <img src="https://raw.githubusercontent.com/tusharvatsa32/VisTransformers/main/docs/plot2.jpeg" alt="drawing" width="400"/>
+<img src="https://raw.githubusercontent.com/tusharvatsa32/VisTransformers/main/docs/Updated_Plot2.jpeg" alt="drawing" width="400"/> <img src="https://raw.githubusercontent.com/tusharvatsa32/VisTransformers/main/docs/Updated_Plot1.jpeg" alt="drawing" width="400"/>
 
 
 ## Team Members
